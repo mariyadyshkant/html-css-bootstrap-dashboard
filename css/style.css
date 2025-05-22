@@ -1,0 +1,9 @@
+.column_hidden {
+    display: none;
+}
+
+@media screen and (min-width: 576px) {
+    .column_hidden {
+        display: block;
+    }
+}
